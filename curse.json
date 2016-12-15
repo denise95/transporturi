@@ -1,0 +1,40 @@
+[
+	{
+		"pret" : 300.00,
+		"data-plecare" : "12-12-2016 10:10",
+		"data-sosire" : "12-12-2016 11:30",
+		"noduri" : [
+			{
+				"nume":"Bucuresti",
+				"subnoduri" : [
+					{"nume" : "Ferentari"}, 
+					{"nume" : "Zece Mese"}
+				]
+			},
+			{
+				"nume":"Brasov",
+				"subnoduri" : [
+					{"nume" : "Strada Sforii"},
+					{"nume" : "Club 39"}
+				]
+			}
+		]
+	},
+	{
+		"pret" : 3200.00,
+		"data-plecare" : "12-12-2016 10:10",
+		"data-sosire" : "12-12-2016 11:30",
+		"noduri" : [
+			{
+				"nume":"Bucuresti",
+				"subnoduri" : [
+					{"nume" : "Gara Obor"}
+				]
+			},
+			{
+				"nume":"Iasi",
+				"subnoduri"	: []
+			}
+		]
+	}
+]
